@@ -1,0 +1,50 @@
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.Form1.resources
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\ndkhoaabai2.exe
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\ndkhoaabai2.deps.json
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\ndkhoaabai2.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\ndkhoaabai2.dll
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\ndkhoaabai2.pdb
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.dll
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\refint\ndkhoaabai2.dll
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.pdb
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ref\ndkhoaabai2.dll
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaab.2CE36BB8.Up2Date
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.sourcelink.json
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\ndkhoaabai2.exe
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\ndkhoaabai2.deps.json
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\ndkhoaabai2.runtimeconfig.json
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\ndkhoaabai2.dll
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\ndkhoaabai2.pdb
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.Form1.resources
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.AssemblyInfo.cs
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.sourcelink.json
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaab.2CE36BB8.Up2Date
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.dll
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\refint\ndkhoaabai2.dll
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.pdb
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ndkhoaabai2.genruntimeconfig.cache
+C:\Users\PC\Downloads\ndkhoaabai2 (1)\ndkhoaabai2\ndkhoaabai2\obj\Debug\net10.0-windows\ref\ndkhoaabai2.dll
